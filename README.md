@@ -35,19 +35,15 @@ This project performs a business analysis on the Sample Superstore dataset to in
 
 ## 📋 Project Structure
 ```
-├── Superstore_Analysis.ipynb   # Main notebook (Google Colab)
+├── Superstore_Analysis.ipynb   # Main notebook
 ├── Sample - Superstore.csv     # Dataset file
 ├── README.md                   # Project documentation
 └── Report.docx                 # Project report
 ```
 
----
 
-## ⚙️ How to Run
-1. Open [Google Colab](https://colab.research.google.com/)
-2. Upload `Superstore_Analysis.ipynb`
-3. Upload `Sample - Superstore.csv` when prompted
-4. Run all cells from top to bottom
+
+
 
 ---
 
